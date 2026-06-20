@@ -1,5 +1,5 @@
 # 💫 About Me:
-I enjoy solving problems and understanding concepts deeply with practical examples<br>Currently learning and working with Python, React, AngularJS, PHP, and MySQL<br>Interested in building projects like smart city systems, virtual assistants, and scalable web apps<br>I focus on both academic excellence and hands-on development
+I enjoy solving problems and understanding concepts deeply with practical examples<br>Currently learning and working with Python, React, AngularJS, PHP, and MySQL<br>Interested in building projects like smart city systems, virtual assistants, and scalable web apps<br>I focus on both academic excellence and hands-on development.
 
 
 ## 🌐 Socials:
@@ -15,8 +15,23 @@ I enjoy solving problems and understanding concepts deeply with practical exampl
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DevDhairya102&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br>
+
+## 💭 Personal Philosophy
+
+```text
+"The future belongs to those who prepare for it today."
+
+"The best way to predict the future is to invent it."
+
+                    — Alan Kay
+```
+
+---
+
+<br>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DevDhairya102&limit=5&theme=dark&combine_all_yearly_contributions=true)
